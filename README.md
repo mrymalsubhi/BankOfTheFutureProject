@@ -27,17 +27,17 @@ The project was completed over a span of 2 weeks. During this time, the team wor
 5. Machine Learning: Leveraging Python, we applied machine learning algorithms to predict churn and test our hypotheses. 
 6. Report Generation: We created a comprehensive report that includes detailed findings, and visualizations. The report showcases our analysis and insights, with each page focusing on a specific aspect of the project.
 
+## Report 📊
+Our report is a comprehensive overview of the project, consisting of multiple pages with different titles. Each page contains a collection of charts that are related to a specific topic. The charts within each page share a common theme and provide insights into different aspects of the analysis. 
+
+The report can be accessed 🔗 [here](https://lookerstudio.google.com/reporting/4bdf1179-965d-4af7-bbba-166667e959bc)  🚀. 
+
 ## Team Members 👭🏻
 - [Maryam Alsubhi](https://www.linkedin.com/in/maryam-alsubhi/)
 - [Rama Aldraibi](https://www.linkedin.com/in/rama-aldraibi/)
 - [Aljawaher Busbait](https://www.linkedin.com/in/aljawaher-busbait/)
 - [Ayah Maghrabi](https://www.linkedin.com/in/ayahmaghrabi/)
 - [Zainab Alshaban](https://www.linkedin.com/in/zainab-alshaban-955210240/)
-
-## Report 📊
-Our report is a comprehensive overview of the project, consisting of multiple pages with different titles. Each page contains a collection of charts that are related to a specific topic. The charts within each page share a common theme and provide insights into different aspects of the analysis. 
-
-The report can be accessed 🔗 [here](https://lookerstudio.google.com/reporting/4bdf1179-965d-4af7-bbba-166667e959bc)  🚀. 
 
 ## Conclusion 🏁
 Bank of the Future project allowed us to apply our skills and knowledge acquired during the bootcamp to a real-world business problem. By analyzing the bank dataset and focusing on reducing churn rate, we were able to provide valuable insights and recommendations to improve customer retention. The collaboration within the team, along with the use of tools like Google BigQuery, Python, and Looker Studio, enabled us to successfully complete the project within the given timeframe.
