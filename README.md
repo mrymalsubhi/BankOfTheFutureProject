@@ -9,7 +9,7 @@ The objective of this project was to analyze a bank dataset and address the busi
 One of the key challenges faced by banks is customer churn, which refers to customers leaving the bank for various reasons. In order to maintain a strong customer base and maximize profitability, it is crucial for banks to reduce churn rate. Our project focused on analyzing the bank dataset to identify factors influencing churn and provide recommendations to improve customer retention.
 
 ## Timeline 🕰️
-The project was completed over a span of 2 weeks. During this time, the team worked together to gather, clean, and transform the data, perform machine learning analysis, and visualize the insights.
+The project was completed over a span of 2 weeks. During this time, the team worked together to clean, and transform the data, perform machine learning analysis, and visualize the insights.
 
 ## Tools Used 🛠️
 - Google BigQuery: We utilized this tool for SQL queries to clean and transform our dataset, making it ready for analysis.
