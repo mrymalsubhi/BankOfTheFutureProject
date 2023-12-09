@@ -16,7 +16,7 @@ The project was completed over a span of 2 weeks. During this time, the team wor
 - Google Colab: We leveraged Google Colab for implementing machine learning algorithms, conducting data analysis, and performing A/B tests using Python.
 - Looker Studio: To visualize our findings and provide data-driven insights, we used Looker Studio for data visualization.
 - Notion: We used Notion for documentation, organizing project notes, and keeping track of our progress.
-- Canva: We utilized Canva for creating professional and visually appealing presentations.
+- Canva: We utilized Canva for creating professional and visually appealing presentation.
 
 
 ## Methodology 🔬
