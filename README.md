@@ -33,7 +33,9 @@ The project was completed over a span of 2 weeks. During this time, the team wor
 - [Zainab Alshaban](https://www.linkedin.com/in/zainab-alshaban-955210240/)
 
 ## Report 📊
-Our report is a comprehensive overview of the project, consisting of multiple pages with different titles. Each page contains a collection of charts that are related to a specific topic. The charts within each page share a common theme and provide insights into different aspects of the analysis. The report can be accessed 🔗 [here](https://lookerstudio.google.com/reporting/4bdf1179-965d-4af7-bbba-166667e959bc)  🚀. 
+Our report is a comprehensive overview of the project, consisting of multiple pages with different titles. Each page contains a collection of charts that are related to a specific topic. The charts within each page share a common theme and provide insights into different aspects of the analysis. 
+
+The report can be accessed 🔗 [here](https://lookerstudio.google.com/reporting/4bdf1179-965d-4af7-bbba-166667e959bc)  🚀. 
 
 ## Conclusion 🏁
 Bank of the Future project allowed us to apply our skills and knowledge acquired during the bootcamp to a real-world business problem. By analyzing the bank dataset and focusing on reducing churn rate, we were able to provide valuable insights and recommendations to improve customer retention. The collaboration within the team, along with the use of tools like Google BigQuery, Python, and Looker Studio, enabled us to successfully complete the project within the given timeframe.
