@@ -25,7 +25,7 @@ The project was completed over a span of 2 weeks. During this time, the team wor
 3. Exploratory Data Analysis: We performed exploratory data analysis to gain insights into user behavior patterns and identify potential churners. This involved visualizing key variables, analyzing statistical measures, and identifying trends and patterns.
 4. Hypothesis Creation: Based on our initial exploratory analysis, we created hypotheses to guide our data analysis. These hypotheses helped us focus on specific aspects of the data and identify the most relevant variables for churn prediction.
 5. Machine Learning: Leveraging Python, we applied machine learning algorithms to predict churn and test our hypotheses. 
-6. Report Generation: We created a comprehensive report that includes detailed findings, visualizations, and actionable recommendations. The report showcases our analysis and insights, with each page focusing on a specific aspect of the project.
+6. Report Generation: We created a comprehensive report that includes detailed findings, and visualizations. The report showcases our analysis and insights, with each page focusing on a specific aspect of the project.
 
 ## Team Members 👭🏻
 - [Maryam Alsubhi](https://www.linkedin.com/in/maryam-alsubhi/)
