@@ -21,7 +21,7 @@ The project was completed over a span of 2 weeks. During this time, the team wor
 
 ## Methodology 🔬
 1. Data Collection: We accessed the bank dataset which was already uploaded on Google BigQuery. This dataset contained a wide range of users-related information, Transaction & Notifications informations which served as the foundation for our analysis.
-2. Data Cleaning and Transformation: We conducted data cleaning and transformation processes using Google BigQuery to ensure data quality and consistency. This step involved handling missing values, correcting data types, removing duplicates, and merging tables to consolidate relevant information.
+2. Data Cleaning and Transformation: We conducted data cleaning and transformation processes using SQL and Python to ensure data quality and consistency. This step involved handling missing values, correcting data types, removing duplicates, and merging tables to consolidate relevant information.
 3. Exploratory Data Analysis: We performed exploratory data analysis to gain insights into user behavior patterns and identify potential churners. This involved visualizing key variables, analyzing statistical measures, and identifying trends and patterns.
 4. Hypothesis Creation: Based on our initial exploratory analysis, we created hypotheses to guide our data analysis. These hypotheses helped us focus on specific aspects of the data and identify the most relevant variables for churn prediction.
 5. Machine Learning: Leveraging Python, we applied machine learning algorithms to predict churn and test our hypotheses. 
