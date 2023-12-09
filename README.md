@@ -1,7 +1,7 @@
 # 🏦 Bank of the Future 💳
 
 ## Introduction 📜
-Bank of the Future is a final project developed during the [Bootcamp Name]. The objective of this project was to analyze a bank dataset and address the business need of reducing churn rate. By analyzing user behavior, engagement, and retention, we aimed to identify churners and provide business recommendations for improving customer retention.
+Bank of the Future is a final project developed during the Data Analytics bootcamp with Le Wagon x Saudi Digital Academy. The objective of this project was to analyze a bank dataset and address the business need of reducing churn rate. By analyzing user behavior, engagement, and retention, we aimed to identify churners and provide business recommendations for improving customer retention.
 
 ## Business Need 💼
 One of the key challenges faced by banks is customer churn, which refers to customers leaving the bank for various reasons. In order to maintain a strong customer base and maximize profitability, it is crucial for banks to reduce churn rate. Our project focused on analyzing the bank dataset to identify factors influencing churn and provide recommendations to improve customer retention.
